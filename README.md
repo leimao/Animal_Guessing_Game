@@ -46,3 +46,4 @@ make
 
 * There is nothing special about this game. The bot basically uses the information that the player provided to construct binary trees.
 * There are some other C++ versions of this game on GitHub. However, their game is not able to saved the latest information before closing the program. My Animal Guessing Game saves the animal information in a certain data structure into the file. The game will load the accumulated animal information from the file before the game.
+* You are welcome to contribute the data for this game!
