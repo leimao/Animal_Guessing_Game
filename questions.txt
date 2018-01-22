@@ -1,0 +1,23 @@
+Does it fly?
+Is it an insect?
+None
+#
+#
+None
+#
+#
+Does it swim?
+Is it a bird?
+None
+#
+#
+Does it attack people?
+None
+#
+#
+None
+#
+#
+None
+#
+#
